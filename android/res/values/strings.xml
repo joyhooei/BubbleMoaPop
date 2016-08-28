@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bubble Moa Pop</string>
+
+    <string name="app_id">280348818169</string>
+    <string name="leaderboard_id">CgkI-fXdsJQIEAIQBg</string>
+    <string name="package_name">com.mycompany.bubblemoapop</string>
+    <string name="achievement_basic">CgkI-fXdsJQIEAIQAQ</string>
+    <string name="achievement_intermediate">CgkI-fXdsJQIEAIQAg</string>
+    <string name="achievement_expert">CgkI-fXdsJQIEAIQAw</string>
+    <string name="achievement_professional">CgkI-fXdsJQIEAIQBA</string>
+    <string name="achievement_god">CgkI-fXdsJQIEAIQBQ</string>
+    <string name="leaderboard_bubblemoapop_leaderboard">CgkI-fXdsJQIEAIQBg</string>
+
+    <string name="startapp_app_id">CgkI-fXdsJQIEAIQBg</string>
+    <string name="startapp_dev_id">CgkI-fXdsJQIEAIQBg</string>
+
+</resources>
